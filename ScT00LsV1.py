@@ -22,7 +22,7 @@ if(uss == "Wijaya" ):
 else:
 	print("Username Tidak Terdaftar")
 	os.system("Sleep 1")
-	os.system("python new.py")
+	os.system("python ScT00LsV1.py")
 pwd = input("Masukkan Password= ")
 if(pwd == "GansV1"):
 	os.system("sleep 3")
@@ -33,7 +33,7 @@ if(pwd == "GansV1"):
 else:
 	print("password salah")
 	os.system("sleep 1")
-	os.system("python new.py")
+	os.system("python ScT00LsV1.py")
 	
 print("Loading(#.........)|5%| |")
 os.system("sleep 2")
